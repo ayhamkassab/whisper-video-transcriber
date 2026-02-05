@@ -1,6 +1,6 @@
 # Whisper Video Transcriber
 
-A simple Python project demonstrating the use of **OpenAI Whisper** for automatic transcription of video interviews.
+A simple Python code for automatic transcription of video interviews using **OpenAI Whisper**
 
 This tool:
 - Extracts audio from `.mp4` video files
