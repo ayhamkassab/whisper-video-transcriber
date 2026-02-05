@@ -1,0 +1,9 @@
+__pycache__/
+*.wav
+.env
+
+data/videos/*
+!data/videos/.gitkeep
+
+data/transcripts/*
+!data/transcripts/.gitkeep
