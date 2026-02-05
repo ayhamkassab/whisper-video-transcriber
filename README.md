@@ -11,7 +11,7 @@ This tool:
 
 Installation
 
-git clone https://github.com/yourusername/whisper-video-transcriber.git
+git clone https://github.com/ayhamkassab/whisper-video-transcriber
 cd whisper-video-transcriber
 
 
